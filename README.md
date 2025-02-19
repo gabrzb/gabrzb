@@ -1,7 +1,9 @@
 ## Olá! Sou Gabriel Zaniqueli 👋
 
-- 🔭 Atualmente trabalho em Estágio de Suporte de TI
-- 🌱 Estudando: Front-end, Javascript, Java, C#
+🔭 Atualmente trabalhando: Suporte de TI
+🌱 Estudando: Front-end, Javascript, Java, C#
+🎯 Foco atual: Construir aplicações funcionais
+💡 Apaixonado por: Tecnologia e automação
 
 <div id="languages" style="display: inline_block"><br>
   <img aling="center" alt="HTML" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
