@@ -1,4 +1,4 @@
-## Olá! Sou Gabriel Zaniqueli Beltrame👋
+## 👋 Olá! Sou Gabriel Zaniqueli Beltrame
 
 🔭 Atualmente trabalhando: Suporte de TI <br>
 🌱 Estudando: Front-end, Javascript, Java, C# <br>
