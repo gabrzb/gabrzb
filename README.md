@@ -6,7 +6,7 @@
 
 ---
 
-### Olá, como vai? 👋
+## Olá, como vai? 👋
 
 Me chamo **Gabriel** e sou desenvolvedor apaixonado por criar soluções elegantes
 
