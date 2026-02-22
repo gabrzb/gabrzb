@@ -4,13 +4,11 @@
 
 </div>
 
----
 
 ## Olá, como vai? 👋
 
 Me chamo **Gabriel** e sou desenvolvedor apaixonado por criar soluções elegantes
 
----
 
 ### 🧑‍💻 Sobre mim
 
@@ -24,14 +22,13 @@ Me chamo **Gabriel** e sou desenvolvedor apaixonado por criar soluções elegant
 ### 🛠️ Tecnologias que uso
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="50" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,cs,java" height="50" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=angular,react,tailwind,php" height="50" />
+  <img src="https://skillicons.dev/icons?i=angular,react,tailwind,vite,nestjs,postgresql,mysql" height="50" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=cs,java,docker,github,blender" height="50" />
+  <img src="https://skillicons.dev/icons?i=wordpress,figma,obsidian,vscode,docker,github,blender" height="50" />
 </div>
 
----
 
 ### 📊 Linguagens mais usadas
 
