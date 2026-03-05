@@ -13,7 +13,7 @@ Me chamo **Gabriel** e sou desenvolvedor apaixonado por criar soluções elegant
 ### 🧑‍💻 Sobre mim
 
 - ✨ Criando bugs desde `2021`
-- 📚 Atualmente aprendendo `Tauri`, `ASP.NET Core`, `Ionic + Capacitor` 
+- 📚 Atualmente aprendendo `Tauri`, `Spring Boot`, `Mobile Dev` 
 - 🎯 Objetivo: `Construir aplicações funcionais impactantes`
 - 💡 Apaixonado por: `Tecnologia, automação e aplicações`
 
