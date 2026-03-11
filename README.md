@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=180&section=header&text=Gabriel%20Zaniqueli%20Beltrame&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descAlignY=60&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=180&section=header&text=Gabriel%20Zaniqueli%20Beltrame&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descAlign=50" />
 
 </div>
 
 <div align="center">
 
 <a href="LINK_DO_CURRICULO.pdf">
-  <img src="https://img.shields.io/badge/📄%20Currículo-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📄%20Resume-2E8B57?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/gabriel-zaniqueli/">
@@ -20,21 +20,20 @@
 
 </div>
 
-## Olá, como vai? 👋
+## Hello there! 👋
 
-Explore este espaço para conhecer as aplicações que já tirei do papel e os novos desafios que estou codificando no momento. Cada repositório conta um pouco da minha jornada como desenvolvedor.
+Explore this space to discover the applications I've brought to life and the new challenges I'm currently coding. Each repository tells a bit of my journey as a developer.
 
+### 🧑‍💻 About me
 
-### 🧑‍💻 Sobre mim
-
-- ✨ Criando bugs desde `2021`
-- 📚 Atualmente aprendendo `Tauri`, `Spring Boot`, `Mobile Dev` 
-- 🎯 Objetivo: `Construir aplicações funcionais impactantes`
-- 💡 Apaixonado por: `Tecnologia, automação e aplicações`
+- ✨ Creating bugs since `2021`
+- 📚 Currently learning `Tauri`, `Spring Boot`, and `Mobile Dev` 
+- 🎯 Goal: `Building impactful and functional applications`
+- 💡 Passionate about: `Technology, automation, and software applications`
 
 ---
 
-### 🛠️ Tecnologias que uso
+### 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,cs,java" height="50" />
@@ -44,8 +43,7 @@ Explore este espaço para conhecer as aplicações que já tirei do papel e os n
   <img src="https://skillicons.dev/icons?i=wordpress,figma,obsidian,vscode,docker,github,blender" height="50" />
 </div>
 
-
-### 📊 Linguagens mais usadas
+### 📊 Most Used Languages
 
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -59,7 +57,7 @@ Explore este espaço para conhecer as aplicações que já tirei do papel e os n
 
 ---
 
-### 🏅 Badges e Certificações
+### 🏅 Badges and Certifications
 
 <div align="center">
 
@@ -75,9 +73,7 @@ Explore este espaço para conhecer as aplicações que já tirei do papel e os n
   <img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" height="120"/>
 </a>
 
-
 </div>
-
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=100&section=footer"/>
