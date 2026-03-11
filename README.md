@@ -56,5 +56,5 @@ Explore este espaço para conhecer as aplicações que já tirei do papel e os n
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD400&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=100&section=footer"/>
 </div>
