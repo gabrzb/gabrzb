@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a6fd4&height=180&section=header&text=Gabriel%20Zaniqueli%20Beltrame&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descAlignY=60&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=180&section=header&text=Gabriel%20Zaniqueli%20Beltrame&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descAlignY=60&descAlign=50" />
 
 </div>
 
 
 ## Olá, como vai? 👋
 
-Me chamo **Gabriel** e sou desenvolvedor apaixonado por criar soluções elegantes
+Explore este espaço para conhecer as aplicações que já tirei do papel e os novos desafios que estou codificando no momento. Cada repositório conta um pouco da minha jornada como desenvolvedor.
 
 
 ### 🧑‍💻 Sobre mim
@@ -24,7 +24,7 @@ Me chamo **Gabriel** e sou desenvolvedor apaixonado por criar soluções elegant
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,cs,java" height="50" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=angular,react,tailwind,vite,nestjs,postgresql,mysql" height="50" />
+  <img src="https://skillicons.dev/icons?i=angular,react,tailwind,vite,spring,postgresql,mysql" height="50" />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=wordpress,figma,obsidian,vscode,docker,github,blender" height="50" />
 </div>
@@ -56,5 +56,5 @@ Me chamo **Gabriel** e sou desenvolvedor apaixonado por criar soluções elegant
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a6fd4&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD400&height=100&section=footer"/>
 </div>
