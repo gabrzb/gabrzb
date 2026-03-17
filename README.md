@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<a href="LINK_DO_CURRICULO.pdf">
+<a href="https://github.com/gabrzb/gabrzb/blob/main/Resume.pdf">
   <img src="https://img.shields.io/badge/📄%20Resume-2E8B57?style=for-the-badge"/>
 </a>
 
