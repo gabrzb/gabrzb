@@ -27,7 +27,7 @@ Explore my space to discover the applications I've brought to life and the new c
 ### 🧑‍💻 About me
 
 - ✨ Creating bugs since `2021`
-- 📚 Currently learning `Tauri`, `Spring Boot`, and `Mobile Dev` 
+- 📚 Currently learning `Flutter`, `Spring Boot`, and `Mobile Dev` 
 - 🎯 Goal: `Building impactful and functional applications`
 - 💡 Passionate about: `Technology, automation and software applications`
 
