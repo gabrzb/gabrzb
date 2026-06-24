@@ -36,14 +36,9 @@ I enjoy tackling real-world problems through clean, functional software whether 
 
 ### 🛠️ Tech Stack
 
-**Languages**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,go" height="45" />
-</div>
-
 **Favorite Languages**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,ts,rust,go" height="45" />
+  <img src="https://skillicons.dev/icons?i=java,ts,cpp,rust,python" height="45" />
 </div>
 
 **Frontend**
@@ -53,31 +48,7 @@ I enjoy tackling real-world problems through clean, functional software whether 
 
 **Backend & Databases**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=spring,postgresql,mysql,docker,redis" height="45" />
-</div>
-
-**Tools**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,vscode,github,wordpress,obsidian,blender" height="45" />
-</div>
-
-**Currently Learning**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,rust,python" height="45" />
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrzb&theme=dark&hide_border=true&background=0d1117&stroke=2E8B57&ring=2E8B57&fire=FFA500&currStreakLabel=2E8B57&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrzb&bg_color=0d1117&color=2E8B57&line=2E8B57&point=ffffff&area=true&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,postgresql,mysql,docker,redis" height="45" />
 </div>
 
 ---
@@ -100,8 +71,22 @@ I enjoy tackling real-world problems through clean, functional software whether 
 
 ---
 
+### 📊 GitHub Stats
+
 <div align="center">
-  <i>Open to collaboration, freelance projects, and new opportunities. Let's build something great.</i>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrzb&theme=dark&hide_border=true&background=0d1117&stroke=2E8B57&ring=2E8B57&fire=FFA500&currStreakLabel=2E8B57&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrzb&bg_color=0d1117&color=2E8B57&line=2E8B57&point=ffffff&area=true&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <i>Open to collaboration, freelance projects, and new opportunities.</i>
 </div>
 
 <div align="center">
