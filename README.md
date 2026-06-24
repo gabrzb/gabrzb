@@ -27,7 +27,7 @@ I enjoy tackling real-world problems through clean, functional software whether 
 ### 🧑‍💻 About me
 
 - 🚀 Shipping code since `2021`
-- 📱 Currently building with `React` + `Spring Boot`
+- 📱 Currently building with `React/Angular` + `Spring Boot`
 - 🎯 Goal: `Deliver applications that solve real problems at scale`
 - 🌐 Background in `Full Stack Web` expanding into `Mobile and Desktop Dev`
 - 💡 Interested in: `Software architecture, automation, and developer tooling`
