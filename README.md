@@ -43,12 +43,17 @@ I enjoy tackling real-world problems through clean, functional software whether 
 
 **Frontend**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,tailwind,vite" height="45" />
+  <img src="https://skillicons.dev/icons?i=angular,react,tailwind,vite,astro" height="45" />
 </div>
 
-**Backend & Databases**
+**Backend**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,postgresql,mysql,docker,redis" height="45" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,postgresql,mysql,redis" height="45" />
+</div>
+
+**DevOps**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,grafana,prometheus,jenkins">
 </div>
 
 ---
