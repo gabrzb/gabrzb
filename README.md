@@ -38,7 +38,7 @@ I enjoy tackling real-world problems through clean, functional software whether 
 
 **Favorite Languages**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,ts,go,python" height="45" />
+  <img src="https://skillicons.dev/icons?i=java,ts,go,cs,python" height="45" />
 </div>
 
 **Frontend**
