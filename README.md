@@ -26,7 +26,7 @@ I enjoy tackling real-world problems through clean, functional software whether 
 
 ### 🧑‍💻 About me
 
-- 🚀 Shipping code since `2021`
+- 🚀 Shipping code since `2019`
 - 📱 Currently building with `React/Angular` + `Spring Boot` + `Docker`
 - 🎯 Goal: `Deliver applications that solve real problems at scale`
 - 🌐 Background in `Full Stack Web` expanding into `Mobile and Backend development`
