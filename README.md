@@ -18,7 +18,7 @@
 
 ## 👋 Hey, I'm Gabriel!
 
-Full Stack Developer building web and mobile applications since 2021. I work across the whole stack — from crafting responsive UIs with Angular and React to designing REST APIs with Spring Boot and Java. Currently expanding into mobile and desktop development with Flutter.
+Full Stack Developer building web and mobile applications since 2021. I work with crafting responsive UIs using Angular and React while also designing RESTful APIs with Spring Boot.
 
 I enjoy tackling real-world problems through clean, functional software whether it's a business app, an automation tool, or an experiment I'm shipping on the side.
 
@@ -27,9 +27,9 @@ I enjoy tackling real-world problems through clean, functional software whether 
 ### 🧑‍💻 About me
 
 - 🚀 Shipping code since `2019`
-- 📱 Currently building with `React/Angular` + `Spring Boot` + `Docker`
+- 📱 Currently building with `Angular/React` + `Spring Boot` + `Docker`
 - 🎯 Goal: `Deliver applications that solve real problems at scale`
-- 🌐 Background in `Full Stack Web` expanding into `Mobile and Backend development`
+- 🌐 Background in `Full Stack Development`
 - 💡 Interested in: `Software architecture, automation, and developer tooling`
 
 ---
