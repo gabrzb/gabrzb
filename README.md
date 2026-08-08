@@ -18,7 +18,7 @@
 
 ## 👋 Hey, I'm Gabriel!
 
-I'm a Full Stack Developer building web and mobile applications since 2021. I work with crafting responsive UIs using Angular and React while also designing RESTful APIs with Spring Boot.
+I'm a Full Stack Developer building web applications since 2021. I work with crafting responsive UIs using Angular and React while also designing RESTful APIs with Spring Boot.
 
 I enjoy tackling real-world problems through clean, functional software whether it's a business app, an automation tool, or an experiment I'm shipping on the side.
 
