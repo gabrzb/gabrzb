@@ -43,7 +43,7 @@ I enjoy tackling real-world problems through clean, functional software whether 
 
 **Frontend**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,tailwind,vite,astro" height="45" />
+  <img src="https://skillicons.dev/icons?i=angular,react,astro,flutter" height="45" />
 </div>
 
 **Backend**
