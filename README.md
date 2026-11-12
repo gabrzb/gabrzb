@@ -74,22 +74,6 @@
   ><a href="mailto:contatozaniqueli@gmail.com"><img src="./imgs/icons/email.svg" alt="Send me an email" title="Email" width="60" height="60"></a>
 </p>
 
-<p><img src="./imgs/headings/certifications.svg" alt="03 Certifications" width="312" height="51"></p>
-
-<div align="center">
-  <a href="https://www.credly.com/earner/earned/badge/2c17c301-f453-48e0-b778-5370e436a3c2">
-    <img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" height="110" alt="Microsoft Azure AI Fundamentals" title="Microsoft Azure AI Fundamentals"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.credly.com/earner/earned/badge/9ffcb6b6-9e22-4896-8cd3-4c7fd26ff4d1">
-    <img src="https://images.credly.com/size/340x340/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png" height="110" alt="Cisco Intro to Packet Tracer" title="Cisco Intro to Packet Tracer"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.credly.com/earner/earned/badge/fdec716b-7e64-4c6f-90ef-138251d9b73b">
-    <img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" height="110" alt="Certification badge" title="Certification badge"/>
-  </a>
-</div>
-
 <br>
 
 ```text
