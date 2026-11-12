@@ -90,10 +90,6 @@
   </a>
 </div>
 
-<p><img src="./imgs/headings/github-stats.svg" alt="04 GitHub stats" width="279" height="51"></p>
-
-<p><a href="https://github.com/gabrzb?tab=overview">Contribution activity</a> &middot; <a href="https://github-readme-streak-stats.herokuapp.com/?user=gabrzb">Contribution streak</a></p>
-
 ```text
  gabrzb@github ~ % exit
  logout
