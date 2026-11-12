@@ -1,0 +1,138 @@
+{
+  "name": "Gabriel",
+  "figlet_font": "standard",
+  "width": 72,
+  "side_art": "side-art.txt",
+  "window": {
+    "title": "~/about.txt",
+    "paragraphs": [
+      [
+        "Gabriel Zaniqueli Beltrame / Full Stack Developer / Brazil",
+        "Shipping code since 2019. Building web applications since 2021."
+      ],
+      [
+        "Responsive UIs with Angular and React. REST APIs with Spring Boot.",
+        "Currently building with Angular/React + Spring Boot + Docker."
+      ],
+      [
+        "Interested in software architecture, automation and developer tools.",
+        "My goal: deliver applications that solve real problems at scale."
+      ],
+      [
+        "Open to collaboration, freelance projects and new opportunities."
+      ]
+    ],
+    "signature": "-@gabrzb"
+  },
+  "sections": {
+    "stack": "Tech stack",
+    "social": "Connect"
+  },
+  "stack": [
+    {
+      "id": "java",
+      "label": "Java"
+    },
+    {
+      "id": "typescript",
+      "label": "TypeScript"
+    },
+    {
+      "id": "go",
+      "label": "Go"
+    },
+    {
+      "id": "csharp",
+      "label": "C#",
+      "short": "CS"
+    },
+    {
+      "id": "python",
+      "label": "Python"
+    },
+    {
+      "id": "angular",
+      "label": "Angular"
+    },
+    {
+      "id": "react",
+      "label": "React"
+    },
+    {
+      "id": "astro",
+      "label": "Astro"
+    },
+    {
+      "id": "flutter",
+      "label": "Flutter"
+    },
+    {
+      "id": "spring",
+      "label": "Spring Boot"
+    },
+    {
+      "id": "nodejs",
+      "label": "Node.js"
+    },
+    {
+      "id": "postgresql",
+      "label": "PostgreSQL"
+    },
+    {
+      "id": "mysql",
+      "label": "MySQL"
+    },
+    {
+      "id": "redis",
+      "label": "Redis"
+    },
+    {
+      "id": "docker",
+      "label": "Docker"
+    },
+    {
+      "id": "kubernetes",
+      "label": "Kubernetes"
+    },
+    {
+      "id": "grafana",
+      "label": "Grafana"
+    },
+    {
+      "id": "prometheus",
+      "label": "Prometheus"
+    },
+    {
+      "id": "jenkins",
+      "label": "Jenkins"
+    }
+  ],
+  "socials": [
+    {
+      "id": "website",
+      "label": "Resume",
+      "url": "./Resume.pdf"
+    },
+    {
+      "id": "linkedin",
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gabriel-zaniqueli/"
+    },
+    {
+      "id": "github",
+      "label": "GitHub",
+      "url": "https://github.com/gabrzb"
+    }
+  ],
+  "email": "contatozaniqueli@gmail.com",
+  "footer": {
+    "prompt": "gabrzb@github ~ %",
+    "command": "exit",
+    "lines": [
+      "logout",
+      "Saving session...completed.",
+      "",
+      "[Process completed]"
+    ]
+  }
+}
