@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./imgs/banner.svg" alt="Gabriel Zaniqueli Beltrame — Full Stack Developer, Brazil. Building web applications with Angular, React and Spring Boot. Open to collaboration, freelance projects and new opportunities." width="900">
+  <img src="./imgs/banner.svg" alt="Web applications with Angular, React and Spring Boot. Software architecture, automation and developer tools." width="900">
 </p>
 
 <p><img src="./imgs/headings/stack.svg" alt="01 Tech stack" width="249" height="51"></p>

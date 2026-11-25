@@ -54,12 +54,14 @@ def card(x, y, w, h):
 def build():
     cfg = json.loads((ROOT / 'profile.json').read_text(encoding='utf-8'))
     for item in cfg['stack']:
-        rows = item.get('glyph') or GLYPHS['icons'][item['id']]
-        assert 0 < len(rows) <= 14 and len({len(row) for row in rows}) == 1
-        assert 0 < len(rows[0]) <= 14 and set(''.join(rows)) <= set('.#*o')
-        body = card(2, 2, 16, 16) + pixels(rows, 2 + (16 - len(rows[0])) // 2, 2 + (16 - len(rows)) // 2)
-        # Match the existing 60px tiles, drawing on an integer 20x20 grid.
-        image = svg(60, 60, f'<g transform="scale(3)">{body}</g>', item['label'])
+        logo = ET.parse(ROOT / f'imgs/logos/{item["id"]}.svg').getroot()
+        assert logo.tag == '{http://www.w3.org/2000/svg}svg' and 'viewBox' in logo.attrib
+        assert not any(node.tag.endswith('script') for node in logo.iter())
+        logo.attrib.update(x='12', y='12', width='36', height='36',
+                           **{'shape-rendering': 'geometricPrecision'})
+        body = f'<g transform="scale(3)">{card(2, 2, 16, 16)}</g>'
+        body += ET.tostring(logo, encoding='unicode')
+        image = svg(60, 60, body, item['label'])
         (ROOT / f'imgs/icons/lang-{item["id"]}.svg').write_text(image, encoding='utf-8')
 
     computer = [
@@ -87,16 +89,13 @@ def build():
     for i, line in enumerate(lines):
         assert sum(len(FONT[c][0]) + 1 for c in line.upper()) * 1.8 <= 810, 'Banner line exceeds window'
         body += text(line, 38, body_y + i * 23, 1.8)
-    body += text('- GABRZB', 38, body_y + len(lines) * 23 + 8, 1.8)
     description = ' '.join(' '.join(p) for p in cfg['window']['paragraphs'])
     (ROOT / 'imgs/banner.svg').write_text(svg(900, height, body,
         'Gabriel Zaniqueli Beltrame - Full Stack Developer', description), encoding='utf-8')
     md_path = ROOT / 'README.md'
     md = md_path.read_text(encoding='utf-8')
     banner = ('<p align="center">\n  <img src="./imgs/banner.svg" '
-              'alt="Gabriel Zaniqueli Beltrame — Full Stack Developer, Brazil. '
-              'Building web applications with Angular, React and Spring Boot. '
-              'Open to collaboration, freelance projects and new opportunities." width="900">\n</p>')
+              f'alt="{html.escape(description, quote=True)}" width="900">\n</p>')
     if md.startswith('```text'):
         md = re.sub(r'\A```text\n.*?\n```', lambda _: banner, md, count=1, flags=re.S)
     else:
