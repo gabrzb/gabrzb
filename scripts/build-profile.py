@@ -68,7 +68,7 @@ def build():
         image = svg(60, 60, body, item['label'])
         path = f'imgs/icons/lang-{item["id"]}.svg'
         (ROOT / path).write_text(image, encoding='utf-8')
-        versions[path] = hashlib.sha256(image.encode('utf-8')).hexdigest()[:12]
+        versions[path] = hashlib.sha256((ROOT / path).read_bytes()).hexdigest()[:12]
 
     computer = [
         '.############.', '##oooooooooo##', '#o**********o#',
