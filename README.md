@@ -1,32 +1,6 @@
-```text
-                                       .--------------------.
-                                       | .----------------. |
-   ____       _          _      _      | | >_ hello       | |
-  / ___| __ _| |__  _ __(_) ___| |     | |    world       | |
- | |  _ / _` | '_ \| '__| |/ _ \ |     | |                | |
- | |_| | (_| | |_) | |  | |  __/ |     | '----------------' |
-  \____|\__,_|_.__/|_|  |_|\___|_|     '----------.---------'
-                                            _____|_|_____
-                                           /_____________\
-
- .----------------------------------------------------------------------.
- | (x) (-) (+)                 ~/about.txt                              |
- |----------------------------------------------------------------------|
- |                                                                      |
- | Gabriel Zaniqueli Beltrame / Full Stack Developer / Brazil           |
- | Shipping code since 2019. Building web applications since 2021.      |
- |                                                                      |
- | Responsive UIs with Angular and React. REST APIs with Spring Boot.   |
- | Currently building with Angular/React + Spring Boot + Docker.        |
- |                                                                      |
- | Interested in software architecture, automation and developer tools. |
- | My goal: deliver applications that solve real problems at scale.     |
- |                                                                      |
- | Open to collaboration, freelance projects and new opportunities.     |
- | -@gabrzb                                                             |
- |                                                                      |
- '----------------------------------------------------------------------'
-```
+<p align="center">
+  <img src="./imgs/banner.svg" alt="Gabriel Zaniqueli Beltrame — Full Stack Developer, Brazil. Building web applications with Angular, React and Spring Boot. Open to collaboration, freelance projects and new opportunities." width="900">
+</p>
 
 <p><img src="./imgs/headings/stack.svg" alt="01 Tech stack" width="249" height="51"></p>
 
