@@ -47,13 +47,3 @@
   ><a href="https://github.com/gabrzb"><img src="./imgs/icons/github.svg" alt="GitHub" title="GitHub" width="60" height="60"></a
   ><a href="mailto:contatozaniqueli@gmail.com"><img src="./imgs/icons/email.svg" alt="Send me an email" title="Email" width="60" height="60"></a>
 </p>
-
-<br>
-
-```text
- gabrzb@github ~ % exit
- logout
- Saving session...completed.
-
- [Process completed]▌
-```
