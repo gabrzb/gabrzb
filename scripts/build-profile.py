@@ -4,10 +4,13 @@ Pixel font and original glyphs: Celio Junior, retro-profile-readme (MIT).
 """
 from pathlib import Path
 import html
+import hashlib
 import json
 import re
 import textwrap
 import xml.etree.ElementTree as ET
+
+ET.register_namespace('', 'http://www.w3.org/2000/svg')
 
 ROOT = Path(__file__).resolve().parent.parent
 GLYPHS = json.loads((ROOT / 'scripts/pixel-glyphs.json').read_text())
@@ -53,6 +56,7 @@ def card(x, y, w, h):
 
 def build():
     cfg = json.loads((ROOT / 'profile.json').read_text(encoding='utf-8'))
+    versions = {}
     for item in cfg['stack']:
         logo = ET.parse(ROOT / f'imgs/logos/{item["id"]}.svg').getroot()
         assert logo.tag == '{http://www.w3.org/2000/svg}svg' and 'viewBox' in logo.attrib
@@ -62,7 +66,9 @@ def build():
         body = f'<g transform="scale(3)">{card(2, 2, 16, 16)}</g>'
         body += ET.tostring(logo, encoding='unicode')
         image = svg(60, 60, body, item['label'])
-        (ROOT / f'imgs/icons/lang-{item["id"]}.svg').write_text(image, encoding='utf-8')
+        path = f'imgs/icons/lang-{item["id"]}.svg'
+        (ROOT / path).write_text(image, encoding='utf-8')
+        versions[path] = hashlib.sha256(image.encode('utf-8')).hexdigest()[:12]
 
     computer = [
         '.############.', '##oooooooooo##', '#o**********o#',
@@ -92,6 +98,7 @@ def build():
     description = ' '.join(' '.join(p) for p in cfg['window']['paragraphs'])
     (ROOT / 'imgs/banner.svg').write_text(svg(900, height, body,
         'Gabriel Zaniqueli Beltrame - Full Stack Developer', description), encoding='utf-8')
+    versions['imgs/banner.svg'] = hashlib.sha256((ROOT / 'imgs/banner.svg').read_bytes()).hexdigest()[:12]
     md_path = ROOT / 'README.md'
     md = md_path.read_text(encoding='utf-8')
     banner = ('<p align="center">\n  <img src="./imgs/banner.svg" '
@@ -101,8 +108,12 @@ def build():
     else:
         md, count = re.subn(r'\A<p align="center">.*?</p>', lambda _: banner, md, count=1, flags=re.S)
         assert count == 1, 'Expected profile banner at the start of README'
+    for path, version in versions.items():
+        md = re.sub(r'src="\./' + re.escape(path) + r'(?:\?v=[a-f0-9]+)?"',
+                    lambda _: f'src="./{path}?v={version}"', md)
     md_path.write_text(md, encoding='utf-8')
     for path in re.findall(r'src="\./([^"]+)"', md):
+        path = path.split('?', 1)[0]
         assert (ROOT / path).is_file(), f'Missing image: {path}'
         if path.endswith('.svg'):
             ET.parse(ROOT / path)
