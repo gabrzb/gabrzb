@@ -1,0 +1,567 @@
+{
+  "java": {
+    "palette": {
+      "a": "#ea2d2e",
+      "b": "#0074bd"
+    },
+    "rows": [
+      "..................",
+      "..........a.......",
+      ".........aa.......",
+      ".........a........",
+      ".......aa.a.......",
+      "......aa.a........",
+      "......a.aa........",
+      "......a.aa........",
+      ".......a.aa.......",
+      ".........a........",
+      "....bb........b...",
+      "....bbbbbb....b...",
+      ".....bbbbbb..b....",
+      ".......bb.........",
+      ".....bbbbbb.......",
+      "..bb...bbb........",
+      "..bbbbbbbbbbbbb...",
+      "......bbbbbbbb...."
+    ]
+  },
+  "typescript": {
+    "palette": {
+      "a": "#ffffff",
+      "b": "#dfeef9",
+      "c": "#bfdef2",
+      "d": "#9fcdec",
+      "e": "#76b7e3",
+      "f": "#409bd9",
+      "g": "#208bd2",
+      "h": "#007acc"
+    },
+    "rows": [
+      "hhhhhhhhhhhhhhhhhh",
+      "hhhhhhhhhhhhhhhhhh",
+      "hhhhhhhhhhhhhhhhhh",
+      "hhhhhhhhhhhhhhhhhh",
+      "hhhhhhhhhhhhhhhhhh",
+      "hhhhhhhhhhhhhhhhhh",
+      "hhhhhhhhhhhhhhhhhh",
+      "hhhhhhhhhhhhhhhhhh",
+      "hhhhccccccghdcdfhh",
+      "hhhhccbaccgdacbchh",
+      "hhhhhhdahhhcbhghhh",
+      "hhhhhhdahhheabehhh",
+      "hhhhhhdahhhhebabgh",
+      "hhhhhhdahhhhhhdaeh",
+      "hhhhhhdahhgdehfaeh",
+      "hhhhhhdahhhcaaabgh",
+      "hhhhhhffhhhhfeeghh",
+      "hhhhhhhhhhhhhhhhhh"
+    ]
+  },
+  "go": {
+    "palette": {
+      "a": "#ffffff",
+      "b": "#dfdfdf",
+      "c": "#6ad7e5",
+      "e": "#d7b990",
+      "f": "#6facb1",
+      "g": "#536a69",
+      "h": "#234252"
+    },
+    "rows": [
+      ".....ffcccff......",
+      "...ffbbccbacff....",
+      "..fgaaabcaaacf....",
+      "...fahabfahacf....",
+      "...fcccfgccccc....",
+      "...fccchefcccc....",
+      "...fcceefccccc....",
+      "...fcccccccccc....",
+      "...fcccccccccc....",
+      "..efcccccccccce...",
+      "...fcccccccccc....",
+      "...fcccccccccc....",
+      "...fcccccccccc....",
+      "...fcccccccccc....",
+      "...fcccccccccf....",
+      "....ccccccccc.....",
+      "....fccccccce.....",
+      "....e.fffff.e....."
+    ]
+  },
+  "csharp": {
+    "palette": {
+      "a": "#ffffff",
+      "f": "#9b4f96",
+      "g": "#83408d",
+      "h": "#68217a"
+    },
+    "rows": [
+      "........ff........",
+      "......ffffff......",
+      "....ffffffffff....",
+      "..fffffffhhhffff..",
+      ".ffffffffhhhhfffg.",
+      ".ffffaaaaahhhhfhh.",
+      ".fffaafffaahahahh.",
+      ".ffaaffffffaaaaaf.",
+      ".ffaaffffghhahahh.",
+      ".ffaafffghhaaaaah.",
+      ".ffaafghhhhhahahh.",
+      ".fffaafhhaahhhhhh.",
+      ".fghfaaaaahhhhhhh.",
+      ".ghhhffffhhhhhhhh.",
+      "..hhhhgffhhghhh...",
+      "....hhhhhhhhhh....",
+      "......hhhhhh......",
+      "........hh........"
+    ]
+  },
+  "python": {
+    "palette": {
+      "a": "#ffe66d",
+      "b": "#ffe05e",
+      "c": "#ffdc50",
+      "d": "#ffd640",
+      "e": "#4585b7",
+      "f": "#3f7cae",
+      "g": "#3772a2",
+      "h": "#fbfaf6"
+    },
+    "rows": [
+      "......eeefff......",
+      ".....eeefffgg.....",
+      ".....eefffggg.....",
+      ".....ehfffggg.....",
+      "..eeeeffgggggaaa..",
+      "..eeefffgggggaaab.",
+      ".eeefffggggggaabb.",
+      ".eefffggggggabbbc.",
+      ".eefffaaaaaabbccc.",
+      ".efffaaaaaabbcccd.",
+      ".fffgaaaabbbccddd.",
+      "..fggaaabbcccddd..",
+      ".....aabbccdd.....",
+      ".....bbbccdhd.....",
+      ".....bcccdd.d.....",
+      "......cddddd......",
+      "........cc........",
+      ".................."
+    ]
+  },
+  "angular": {
+    "palette": {
+      "a": "#fe31d5",
+      "b": "#fc30c1",
+      "c": "#f52087",
+      "d": "#f30b52",
+      "e": "#d226cb",
+      "f": "#de0e82",
+      "g": "#9f1bec",
+      "h": "#800bf1"
+    },
+    "rows": [
+      ".....a.....e......",
+      "...aaa.....eeg....",
+      ".aaaa.......eggg..",
+      "aaaab.......ggggg.",
+      "aaabb.......ggggh.",
+      "abbb....e....gghh.",
+      "bbbb....e....gghh.",
+      "bbb....bbe....hhh.",
+      "bbb....cce....hhh.",
+      "bb....cccee....hh.",
+      "cc.....ccf.....hh.",
+      "c...............h.",
+      "..................",
+      ".....ddddfff......",
+      "....ddddddfff.....",
+      "....ddddddfff.....",
+      "......ddddd.......",
+      ".......ddd........"
+    ]
+  },
+  "react": {
+    "palette": {
+      "a": "#61dafb"
+    },
+    "rows": [
+      "..................",
+      "....aaaa..aaaa....",
+      "...aa..aaaa..aa...",
+      "...aa...aa...aa...",
+      "...aa..aaaa..aa...",
+      "...aaaaaaaaaaaa...",
+      "..aaaaaa..aaaaaa..",
+      ".aa.aaa.aa.aaa.aa.",
+      "a...aa.aaaa.aa...a",
+      "a...aa.aaaa.aa...a",
+      ".aa.aaa.aa.aaa.aa.",
+      "..aaaaaa..aaaaaa..",
+      "...aaaaaaaaaaaa...",
+      "...aa..aaaa..aa...",
+      "...aa...aa...aa...",
+      "...aa..aaaa..aa...",
+      "....aaaa..aaaa....",
+      ".................."
+    ]
+  },
+  "astro": {
+    "palette": {
+      "a": "#ff5904",
+      "b": "#130425",
+      "c": "#100322",
+      "d": "#0e0320",
+      "e": "#0b021d",
+      "f": "#08021b",
+      "g": "#060119",
+      "h": "#030117"
+    },
+    "rows": [
+      "......hhhhh.......",
+      ".....gggghhh......",
+      ".....ggggggg......",
+      ".....ffffggg......",
+      "....eeef.ffff.....",
+      "....eeee.eeef.....",
+      "....dddd.eeee.....",
+      "...cccd...ddee....",
+      "...cccc...dddd....",
+      "...bbbc...cccc....",
+      "..bbbb.....cccc...",
+      "..bb.........cc...",
+      "..................",
+      ".....aaaaaaa......",
+      ".....aaaaaaa......",
+      "........aaa.......",
+      "........a.........",
+      "........a........."
+    ]
+  },
+  "flutter": {
+    "palette": {
+      "a": "#3fb6d3",
+      "c": "#27aacd",
+      "d": "#2483b4",
+      "e": "#195a9b",
+      "g": "#19599a",
+      "h": "#1a5598"
+    },
+    "rows": [
+      "..........aaaaaa..",
+      ".........aaaaaa...",
+      ".......aaaaaa.....",
+      "......aaaaaa......",
+      ".....aaaaaa.......",
+      "....aaaaaa........",
+      "...aaaaaa.........",
+      "..aaaaaa..........",
+      ".aaaaaa...aaaaaa..",
+      ".aaaaa...aaaaaa...",
+      "..aaa...aaaaaa....",
+      "...a...ccaaaa.....",
+      "......ccccaa......",
+      "......ccccd.......",
+      "......cccdhg......",
+      ".......cdhggee....",
+      ".........egggge...",
+      "..........egggge.."
+    ]
+  },
+  "spring": {
+    "palette": {
+      "a": "#77bc1f"
+    },
+    "rows": [
+      "......aaaaaa......",
+      "....aaaaaaaaaa..a.",
+      "...aaaaaaaaaaaaaa.",
+      "..aaaaaaaaaaaaa...",
+      ".aaaaaaaaaaaaa....",
+      ".aaaaaaaaaaa.....a",
+      "aaaaaa...........a",
+      "aaaa.............a",
+      "aaaa.............a",
+      "aaa..............a",
+      "aaa..........a...a",
+      "aaa........aa....a",
+      ".aa......aaa....a.",
+      ".aaa..aaaa......a.",
+      "..aaaaaa......aa..",
+      "....aaaaaaaaaaa...",
+      "....aaaaaaaaaa....",
+      "......aaaaaa......"
+    ]
+  },
+  "nodejs": {
+    "palette": {
+      "a": "#65b849",
+      "b": "#5dae47",
+      "c": "#57a745",
+      "d": "#50a142",
+      "e": "#4c9a41",
+      "f": "#45933f",
+      "g": "#40893f",
+      "h": "#3f863f",
+      "i": "#fbfaf6"
+    },
+    "rows": [
+      "........cd........",
+      "......bbccee......",
+      "....aaabccdeed....",
+      "..aaaaabccdeeddd..",
+      ".daaaaabccdeeedde.",
+      ".gaaaaabccdeeeedg.",
+      ".feaaaiiciiiieefg.",
+      ".ffbaaaicideefegg.",
+      ".ffeaaaiciiiifggg.",
+      ".ffgcaaiccdeifggg.",
+      ".ffgiaaiccdeifggg.",
+      ".ffhhiibciiiifggg.",
+      ".fhhhgbbccdeefghg.",
+      ".ghhhhebccdeefghh.",
+      "..ghhhhcccdeefgg..",
+      "....hhhfccdeef....",
+      "......hhdcde......",
+      "........fc........"
+    ]
+  },
+  "postgresql": {
+    "palette": {
+      "b": "#dbe3e9",
+      "c": "#acbdcb",
+      "d": "#7d93a5",
+      "e": "#4d7a9f",
+      "f": "#336791",
+      "g": "#3c3c3c",
+      "h": "#000000"
+    },
+    "rows": [
+      "..geeghheegdddeh..",
+      ".eceedcceedcdfecg.",
+      "gdffffcfffffddffdh",
+      "dffffdeffffffdefdg",
+      "dffffceefffffdcfdg",
+      "dffffcdcdfffcccfdh",
+      "gefffcffcfffcfcfd.",
+      "hcfffcffcfffcfcee.",
+      ".dfffcffcfffedcch.",
+      ".eeffcfedffffcce..",
+      ".gdffeccdffffebggg",
+      "..dfedgccefffcdccg",
+      "..gdddcdcefffcegh.",
+      "......hheefffd....",
+      "........defffd....",
+      "........edffef....",
+      ".........cffch....",
+      ".........gddg....."
+    ]
+  },
+  "mysql": {
+    "palette": {
+      "a": "#00618a"
+    },
+    "rows": [
+      "aaa...............",
+      "a.aaaa............",
+      "aa...aaa..........",
+      ".a..a..aa.........",
+      ".aa.....aa........",
+      "..a......a........",
+      "..aa......a.......",
+      "...a......aa......",
+      "..a........a......",
+      "..a........a......",
+      "..a.aa......a.....",
+      "...aaa......aa....",
+      "...aa.a.......aa..",
+      "................a.",
+      "..............aaa.",
+      "..............aa..",
+      "...............aa.",
+      ".................a"
+    ]
+  },
+  "redis": {
+    "palette": {
+      "a": "#ffffff",
+      "b": "#eb928c",
+      "c": "#d82c20",
+      "d": "#d22a1e",
+      "e": "#c02519",
+      "f": "#ac2114",
+      "g": "#a41e11",
+      "h": "#7c0d01"
+    },
+    "rows": [
+      "..................",
+      ".......cccc.......",
+      ".....cccbbcccc....",
+      "..ccccccbabcdedc..",
+      "dccbaaabccdefhhecd",
+      "gedcbbccbbccdecefg",
+      "gggfeccbaaccdefggf",
+      "ddfggfedccdeggfedd",
+      "geddefggffggfdcdfg",
+      "gggfdcdfggeddefggf",
+      "ddfggfeddcdeggfede",
+      "geddefggffggfecefg",
+      "gggfeddfggeddegggg",
+      "..ggggfdccefggg...",
+      ".....gggfgggg.....",
+      ".......gggg.......",
+      "..................",
+      ".................."
+    ]
+  },
+  "docker": {
+    "palette": {
+      "a": "#4abce2",
+      "b": "#1da6cd",
+      "c": "#019ec9",
+      "d": "#257d96",
+      "e": "#028bb8",
+      "f": "#0193bf",
+      "g": "#315e6b"
+    },
+    "rows": [
+      "..................",
+      "..................",
+      "..................",
+      "..................",
+      "........gd........",
+      "........gdg.......",
+      ".....dddddg...dd..",
+      "....dddddddg..bbdg",
+      "...gdddddddd..dbed",
+      "..ebbbbbbbbbbbc...",
+      "..deeeeeeeeeedg...",
+      "...ecfbcccffed....",
+      "...gaaaffeeed.....",
+      ".....aadddd.......",
+      "..................",
+      "..................",
+      "..................",
+      ".................."
+    ]
+  },
+  "kubernetes": {
+    "palette": {
+      "a": "#ffffff",
+      "b": "#e5ecfc",
+      "c": "#cbdaf8",
+      "d": "#b2c8f5",
+      "e": "#99b6f2",
+      "f": "#7199ed",
+      "g": "#4c7ee8",
+      "h": "#326ce5"
+    },
+    "rows": [
+      ".......hhhh.......",
+      ".....hhhhhhhh.....",
+      "...hhhhhgghhhhh...",
+      "..hhhhhhffhhhhhh..",
+      ".hhhhhgeccehhhhhh.",
+      ".hhgcfbdccdbfcghh.",
+      ".hhhgadheehdaghhh.",
+      ".hhhecbdccdbcehhh.",
+      "hhhhcfgbbbbgfchhhh",
+      "hhhhbedaeeacebhhhh",
+      "hhfdbcedaadecbdfhh",
+      "hhhhfchddddhcfhhhh",
+      ".hhhhcdbggbdchhhh.",
+      ".hhhhhcaccachhhhh.",
+      "..hhhhdgffgdhhhh..",
+      "...hhhfhhhhfhhh...",
+      "....hhhhhhhhhh....",
+      "....hhhhhhhhhh...."
+    ]
+  },
+  "grafana": {
+    "palette": {
+      "a": "#f8b923",
+      "b": "#f7aa24",
+      "c": "#f69825",
+      "d": "#f48727",
+      "e": "#f26d29",
+      "f": "#f15b2a",
+      "g": "#f05b2a",
+      "h": "#f05a29"
+    },
+    "rows": [
+      "........gg........",
+      "........gfh.......",
+      "......hffffggfh...",
+      "..fffgfffffgffg...",
+      "..ffffgg.....ggg..",
+      "..fffff........f..",
+      "..ffff....efe...g.",
+      "..eee...eeeeee..e.",
+      "..eee...e....ee...",
+      ".dddd..dd....ddd..",
+      "ddddd..dd.....dd..",
+      "dcccc...d.....cc..",
+      ".ccccc...cc..cccc.",
+      "...bccc.....bcccc.",
+      "....bbbbbbbbbbb...",
+      "....aaaaaaaaaa....",
+      "....aaaaaaaaa.....",
+      "...........aa....."
+    ]
+  },
+  "prometheus": {
+    "palette": {
+      "a": "#e75225"
+    },
+    "rows": [
+      "......aaaaaa......",
+      "....aaaaaaaaaa....",
+      "...aaaaa.aaaaaa...",
+      "..aaaaaa.aaaaaaa..",
+      ".aaaaa.a...aaaaaa.",
+      ".aaaaa......aaaaa.",
+      "aaaaaa......aaaaaa",
+      "aaaaaa......aaaaaa",
+      "aaaaaa......aaaaaa",
+      "aaaaaa......aaaaaa",
+      "aaaa..........aaaa",
+      "aaaaa........aaaaa",
+      ".aaaaaaaaaaaaaaaa.",
+      ".aaaa........aaaa.",
+      "..aaaaaaaaaaaaaa..",
+      "...aaaa....aaaa...",
+      "....aaaa..aaaa....",
+      "......aaaaaa......"
+    ]
+  },
+  "jenkins": {
+    "palette": {
+      "a": "#f7f3ed",
+      "b": "#f0d6b7",
+      "c": "#838b8d",
+      "d": "#355061",
+      "e": "#d53834",
+      "f": "#5d3434",
+      "g": "#242122"
+    },
+    "rows": [
+      ".......fccd.......",
+      ".....dcbbbbc......",
+      ".....ccbcbbcf.....",
+      "....fccbbbbbc.....",
+      "...ffdcbbcbccg....",
+      "...eccbbbbbccf....",
+      "..feecbbbccceef...",
+      "..feefbbbccceef...",
+      "..feefcbcbcdfef...",
+      "..feddddefefdef...",
+      "..ffddddefcddef...",
+      "..gedddddccdfe....",
+      "...fddddddfdfc....",
+      "....dddaaacccbc...",
+      "....dddaaacdccd...",
+      ".....ggbaacd......",
+      ".......caabd......",
+      ".......dccc......."
+    ]
+  }
+}

@@ -10,8 +10,6 @@ import re
 import textwrap
 import xml.etree.ElementTree as ET
 
-ET.register_namespace('', 'http://www.w3.org/2000/svg')
-
 ROOT = Path(__file__).resolve().parent.parent
 GLYPHS = json.loads((ROOT / 'scripts/pixel-glyphs.json').read_text())
 FONT = GLYPHS['font_5x7']
@@ -23,8 +21,9 @@ def rect(x, y, w, h, color):
     return f'<rect x="{x:g}" y="{y:g}" width="{w:g}" height="{h:g}" fill="{color}"/>'
 
 
-def pixels(rows, x, y, scale=1):
-    colors = {'#': INK, '*': BLUE, 'o': YELLOW}
+def pixels(rows, x, y, scale=1, colors=None):
+    if colors is None:
+        colors = {'#': INK, '*': BLUE, 'o': YELLOW}
     return ''.join(rect(x + col * scale, y + row * scale, scale, scale, colors[c])
                    for row, line in enumerate(rows) for col, c in enumerate(line) if c in colors)
 
@@ -56,15 +55,12 @@ def card(x, y, w, h):
 
 def build():
     cfg = json.loads((ROOT / 'profile.json').read_text(encoding='utf-8'))
+    logos = json.loads((ROOT / 'scripts/logo-pixels.json').read_text(encoding='utf-8'))
     versions = {}
     for item in cfg['stack']:
-        logo = ET.parse(ROOT / f'imgs/logos/{item["id"]}.svg').getroot()
-        assert logo.tag == '{http://www.w3.org/2000/svg}svg' and 'viewBox' in logo.attrib
-        assert not any(node.tag.endswith('script') for node in logo.iter())
-        logo.attrib.update(x='12', y='12', width='36', height='36',
-                           **{'shape-rendering': 'geometricPrecision'})
+        logo = logos[item['id']]
         body = f'<g transform="scale(3)">{card(2, 2, 16, 16)}</g>'
-        body += ET.tostring(logo, encoding='unicode')
+        body += pixels(logo['rows'], 12, 12, scale=2, colors=logo['palette'])
         image = svg(60, 60, body, item['label'])
         path = f'imgs/icons/lang-{item["id"]}.svg'
         (ROOT / path).write_text(image, encoding='utf-8')

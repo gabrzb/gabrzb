@@ -6,37 +6,37 @@
 
 <p><strong>Languages</strong></p>
 <p>
-  <img src="./imgs/icons/lang-java.svg?v=cdf5e8b577b5" alt="Java" title="Java" width="60" height="60"
-  ><img src="./imgs/icons/lang-typescript.svg?v=43c0714986f7" alt="TypeScript" title="TypeScript" width="60" height="60"
-  ><img src="./imgs/icons/lang-go.svg?v=77b160dfc50b" alt="Go" title="Go" width="60" height="60"
-  ><img src="./imgs/icons/lang-csharp.svg?v=c640d29d2784" alt="C#" title="C#" width="60" height="60"
-  ><img src="./imgs/icons/lang-python.svg?v=ed9a471114da" alt="Python" title="Python" width="60" height="60">
+  <img src="./imgs/icons/lang-java.svg?v=4906681f9ff4" alt="Java" title="Java" width="60" height="60"
+  ><img src="./imgs/icons/lang-typescript.svg?v=a905c9204c94" alt="TypeScript" title="TypeScript" width="60" height="60"
+  ><img src="./imgs/icons/lang-go.svg?v=9a1c84223dc7" alt="Go" title="Go" width="60" height="60"
+  ><img src="./imgs/icons/lang-csharp.svg?v=0b5739c61a25" alt="C#" title="C#" width="60" height="60"
+  ><img src="./imgs/icons/lang-python.svg?v=83c336b47136" alt="Python" title="Python" width="60" height="60">
 </p>
 
 <p><strong>Frontend</strong></p>
 <p>
-  <img src="./imgs/icons/lang-angular.svg?v=1d101f5b0276" alt="Angular" title="Angular" width="60" height="60"
-  ><img src="./imgs/icons/lang-react.svg?v=52a98e7662e8" alt="React" title="React" width="60" height="60"
-  ><img src="./imgs/icons/lang-astro.svg?v=3bfafb34cdab" alt="Astro" title="Astro" width="60" height="60"
-  ><img src="./imgs/icons/lang-flutter.svg?v=088a134850ef" alt="Flutter" title="Flutter" width="60" height="60">
+  <img src="./imgs/icons/lang-angular.svg?v=4a86d3e0ffd2" alt="Angular" title="Angular" width="60" height="60"
+  ><img src="./imgs/icons/lang-react.svg?v=9962f28c25ac" alt="React" title="React" width="60" height="60"
+  ><img src="./imgs/icons/lang-astro.svg?v=47ce2bf66a91" alt="Astro" title="Astro" width="60" height="60"
+  ><img src="./imgs/icons/lang-flutter.svg?v=0d34b9a6c54e" alt="Flutter" title="Flutter" width="60" height="60">
 </p>
 
 <p><strong>Backend</strong></p>
 <p>
-  <img src="./imgs/icons/lang-spring.svg?v=5da4c6878a0e" alt="Spring Boot" title="Spring Boot" width="60" height="60"
-  ><img src="./imgs/icons/lang-nodejs.svg?v=5c5aa12204b2" alt="Node.js" title="Node.js" width="60" height="60"
-  ><img src="./imgs/icons/lang-postgresql.svg?v=e53dfd468e39" alt="PostgreSQL" title="PostgreSQL" width="60" height="60"
-  ><img src="./imgs/icons/lang-mysql.svg?v=ba57fbf15625" alt="MySQL" title="MySQL" width="60" height="60"
-  ><img src="./imgs/icons/lang-redis.svg?v=eafa9b100d9c" alt="Redis" title="Redis" width="60" height="60">
+  <img src="./imgs/icons/lang-spring.svg?v=ac2ed249e7f5" alt="Spring Boot" title="Spring Boot" width="60" height="60"
+  ><img src="./imgs/icons/lang-nodejs.svg?v=67946ac3a981" alt="Node.js" title="Node.js" width="60" height="60"
+  ><img src="./imgs/icons/lang-postgresql.svg?v=60b1b344719c" alt="PostgreSQL" title="PostgreSQL" width="60" height="60"
+  ><img src="./imgs/icons/lang-mysql.svg?v=d96d7356dc23" alt="MySQL" title="MySQL" width="60" height="60"
+  ><img src="./imgs/icons/lang-redis.svg?v=70326e8ec448" alt="Redis" title="Redis" width="60" height="60">
 </p>
 
 <p><strong>DevOps</strong></p>
 <p>
-  <img src="./imgs/icons/lang-docker.svg?v=0b0f30d6c39a" alt="Docker" title="Docker" width="60" height="60"
-  ><img src="./imgs/icons/lang-kubernetes.svg?v=086d8015574a" alt="Kubernetes" title="Kubernetes" width="60" height="60"
-  ><img src="./imgs/icons/lang-grafana.svg?v=3b8e82b34f58" alt="Grafana" title="Grafana" width="60" height="60"
-  ><img src="./imgs/icons/lang-prometheus.svg?v=1080e24aeff7" alt="Prometheus" title="Prometheus" width="60" height="60"
-  ><img src="./imgs/icons/lang-jenkins.svg?v=7bbbf2fc9b9e" alt="Jenkins" title="Jenkins" width="60" height="60">
+  <img src="./imgs/icons/lang-docker.svg?v=bc78b7e6227c" alt="Docker" title="Docker" width="60" height="60"
+  ><img src="./imgs/icons/lang-kubernetes.svg?v=c0929ee5a762" alt="Kubernetes" title="Kubernetes" width="60" height="60"
+  ><img src="./imgs/icons/lang-grafana.svg?v=dbd6309841ad" alt="Grafana" title="Grafana" width="60" height="60"
+  ><img src="./imgs/icons/lang-prometheus.svg?v=bf665bab6ab8" alt="Prometheus" title="Prometheus" width="60" height="60"
+  ><img src="./imgs/icons/lang-jenkins.svg?v=b05a2ad6160b" alt="Jenkins" title="Jenkins" width="60" height="60">
 </p>
 
 <p><img src="./imgs/headings/social.svg" alt="02 Connect" width="204" height="51"></p>
